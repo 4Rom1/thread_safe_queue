@@ -1,6 +1,6 @@
 ### thread_safe_queue
 
-Running example of a thread safe blocking queue.    
+Running example of a thread safe blocking queue using [mutex](https://en.cppreference.com/w/cpp/thread/mutex) and [condition variable](https://en.cppreference.com/w/cpp/thread/condition_variable).    
 
 The methods of the calling object are:    
 
