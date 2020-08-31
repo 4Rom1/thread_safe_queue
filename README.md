@@ -22,4 +22,4 @@ Compilation
 $ g++ -Wall -Wextra -Wpedantic -Wconversion -pthread bounded_blocking_queue.cpp -o bounded_blocking_queue     
   
 Execution  
-$ ./BoundedBlockingQueue
+$ ./bounded_blocking_queue
